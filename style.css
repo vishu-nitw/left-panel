@@ -1,6 +1,6 @@
 .ui-tabs.ui-tabs-vertical {
     padding: 0;
-    width: 42em;
+    width: 62em;
 }
 .ui-tabs.ui-tabs-vertical .ui-widget-header {
     border: none;
@@ -47,4 +47,13 @@
     border-radius: 0;
     position: relative;
     left: -1px;
+}
+
+.body-wrapper {
+background-color: #fff;
+box-shadow: 0 0 35px #888;
+/*padding: 0px 40px 10px 40px;*/
+padding: 20px 40px 22% 40px;
+width: 1050px;
+margin: 0px auto 10px auto;
 }
