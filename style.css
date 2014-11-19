@@ -41,12 +41,20 @@
     margin-bottom: 10px;
 }
 .ui-tabs.ui-tabs-vertical .ui-tabs-panel {
-    float: left;
+ /*   float: left;
     width: 51em;
     border-left: 1px solid gray;
     border-radius: 0;
     position: relative;
     left: -1px;
+}*/
+/* float: left; */
+width: auto;
+border-left: 1px solid gray;
+border-radius: 0;
+position: relative;
+left: -1px;
+padding: 0 0 .5em 11em;
 }
 
 .body-wrapper {
