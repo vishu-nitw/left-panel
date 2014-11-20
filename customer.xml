@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+ 
+<corporate>
+ <employee>
+  <name>Vishu</name>
+  <age>25</age>
+  <company>Capgemini</company>
+ </employee>
+</corporate>
